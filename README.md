@@ -15,3 +15,7 @@ sudo python ArpyKitty.py --interface wlan1 --gatewayIP 192.168.1.1 --targetIP 19
 <b>Requirements</b><br>
 pip install scapy<br>
 Python 2.7.6
+
+
+<br>
+<a href="https://h3llwings.wordpress.com/2016/11/15/arp-spoofing-with-arpykitty/">Follow MyBlog</a><br>h3llwings
